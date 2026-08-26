@@ -512,7 +512,6 @@ Potential extensions include:
 ### Lokesh Yadav
 
 * Reference photograph contribution
-* Project collaboration
 
 The detailed contribution breakdown is documented in the accompanying research report.
 
