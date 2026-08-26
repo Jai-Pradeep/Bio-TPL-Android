@@ -538,3 +538,17 @@ This repository is intended **solely for authorized academic security research a
 Do not deploy the system against devices, users, networks, or infrastructure without explicit authorization.
 
 The project was evaluated exclusively within a controlled Android emulator environment, with recovery performed after demonstrations.
+
+## Images
+Scanning phase : 
+<br>
+<img width="492" height="1020" alt="Screenshot 2026-08-26 230908" src="https://github.com/user-attachments/assets/00700ce1-09dd-4538-8d95-f68eabe79709" />
+<br>
+Page of Verified User : 
+<br>
+<img width="480" height="1020" alt="Screenshot 2026-08-26 230925" src="https://github.com/user-attachments/assets/1664862f-34a5-4b4e-8197-e8c2c5e7a645" />
+<br>
+After Seeing Targetted User :
+<br>
+<img width="477" height="1016" alt="Screenshot 2026-08-26 231006" src="https://github.com/user-attachments/assets/53314fcf-e026-4038-a2ad-8da12fec1ea0" />
+<br>
